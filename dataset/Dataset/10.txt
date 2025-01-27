@@ -1,0 +1,12 @@
+#PIFO
+101 WFQ {102, true, 5} {103, true, 5}
+102 WFQ {1, false, 1} {2, false, 4}
+103 WFQ {3, false, 1} {4, false, 1}
+
+#Flow
+1 {101, 102}
+2 {101, 102}
+3 {101, 103}
+4 {101, 103}
+
+# Twenty Years After: Hierarchical Core-Stateless Fair Queueing

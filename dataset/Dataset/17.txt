@@ -1,0 +1,11 @@
+#PIFO
+101 WFQ {1, false, 2} {2, false, 3} {102, true, 5}
+102 pFabric {3, false, 1} {4, false, 1}
+
+#Flow
+1 {101}
+2 {101}
+3 {101, 102}
+4 {101, 102}
+
+# Towards Programmable Packet Scheduling
