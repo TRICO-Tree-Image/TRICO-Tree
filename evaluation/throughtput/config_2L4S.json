@@ -1,0 +1,7 @@
+{
+    "filepath": "./test_algorithms",
+    "PIFO_core_capacity": [45034, 45034, 1512, 1512, 1512, 1512],
+    "PIFO_core_PPS": [92.5, 92.5, 185, 185, 185, 185],
+    "PIFO_core_legal_capacity": [[4094], [4094], [126], [126], [126], [126]],
+    "Total_flow_number": "1000"
+}

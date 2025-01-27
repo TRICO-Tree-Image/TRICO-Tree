@@ -1,0 +1,21 @@
+#PIFO
+101 WFQ {102, true, 5} {103, true, 4}
+102 WFQ {104, true, 10} {105, true, 3} {106, true, 12}
+103 WFQ {107, true, 1} {9, false, 1}
+104 WFQ {1, false, 1} {2, false, 4}
+105 WFQ {3, false, 1} {4, false, 1} 
+106 WFQ {5, false, 1} {6, false, 3} 
+107 WFQ {7, false, 1} {8, false, 1} 
+
+#Flow
+1 {101, 102, 104}
+2 {101, 102, 104}
+3 {101, 102, 105}
+4 {101, 102, 105}
+5 {101, 102, 106}
+6 {101, 102, 106}
+7 {101, 103, 107}
+8 {101, 103, 107}
+9 {101, 103}
+
+# A hierarchical fair service curve algorithm for link-sharing, real-time, and priority services

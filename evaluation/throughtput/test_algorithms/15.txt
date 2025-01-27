@@ -1,0 +1,16 @@
+#PIFO
+101 WFQ {1, false, 4} {2, false, 4} {102, true, 2}
+102 WFQ {3, false, 1} {4, false, 1} {103, true, 1}
+103 WFQ {5, false, 1} {6, false, 4} {7, false, 5}
+
+
+#Flow
+1 {101}
+2 {101}
+3 {101, 102}
+4 {101, 102}
+5 {101, 102, 103}
+6 {101, 102, 103}
+7 {101, 102, 103}
+
+# Formal Abstractions for Packet Scheduling

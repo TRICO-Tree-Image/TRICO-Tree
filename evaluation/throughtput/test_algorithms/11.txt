@@ -1,0 +1,15 @@
+#PIFO
+101 SP {102, true, 1} {1, false, 2}
+102 WFQ {103, true, 1} {2, false, 2} {3, false, 4}
+103 SP {104, true, 1} {4, false, 2}
+104 WFQ {5, false, 1} {6, false, 1}
+
+#Flow
+1 {101}
+2 {101, 102}
+3 {101, 102}
+4 {101, 102, 103}
+5 {101, 102, 103, 104}
+6 {101, 102, 103, 104}
+
+# Loom: Flexible and Efﬁcient NIC Packet Scheduling
