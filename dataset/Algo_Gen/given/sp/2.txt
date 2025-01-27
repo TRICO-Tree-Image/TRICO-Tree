@@ -1,0 +1,12 @@
+#PIFO
+101 SP {102, true, 1} {103, true, 2}
+102 SP {1, false, 1} {2, false, 1}
+103 WFQ {3, false, 1} {4, false, 1}
+
+#Flow
+1 {101, 102}
+2 {101, 102}
+3 {101, 103}
+4 {101, 103}
+
+# https://info.support.huawei.com/info-finder/encyclopedia/zh/HQoS.html

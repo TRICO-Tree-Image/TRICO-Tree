@@ -1,0 +1,1190 @@
+./generated/617063.txt
+./given/basic/18.txt
+Depth Expansion: ./given/basic/6.txt
+Breadth Expansion: ./given/basic/1.txt
+Breadth Expansion: ./given/basic/2.txt
+Depth Expansion: ./given/basic/1.txt
+
+./generated/133696.txt
+./given/basic/8.txt
+Depth Expansion: ./given/basic/9.txt
+Breadth Expansion: ./given/basic/13.txt
+Breadth Expansion: ./given/basic/3.txt
+Depth Expansion: ./given/basic/18.txt
+
+./generated/658567.txt
+./given/basic/20.txt
+Breadth Expansion: ./given/basic/11.txt
+
+./generated/136356.txt
+./given/basic/9.txt
+Breadth Expansion: ./given/basic/15.txt
+
+./generated/42504.txt
+./given/basic/20.txt
+Breadth Expansion: ./given/basic/2.txt
+Depth Expansion: ./given/pfabric/17.txt
+
+./generated/162145.txt
+./given/basic/14.txt
+Breadth Expansion: ./given/basic/18.txt
+Depth Expansion: ./given/basic/9.txt
+Breadth Expansion: ./given/basic/4.txt
+Breadth Expansion: ./given/basic/3.txt
+Depth Expansion: ./given/pfabric/19.txt
+
+./generated/419410.txt
+./given/basic/11.txt
+Depth Expansion: ./given/basic/8.txt
+Breadth Expansion: ./given/basic/8.txt
+
+./generated/460589.txt
+./given/basic/15.txt
+Depth Expansion: ./given/basic/15.txt
+Breadth Expansion: ./given/basic/2.txt
+Depth Expansion: ./given/basic/13.txt
+Depth Expansion: ./given/pfabric/17.txt
+
+./generated/995412.txt
+./given/basic/13.txt
+Breadth Expansion: ./given/basic/6.txt
+Depth Expansion: ./given/basic/13.txt
+Breadth Expansion: ./given/basic/12.txt
+
+./generated/272417.txt
+./given/basic/4.txt
+Breadth Expansion: ./given/basic/7.txt
+Breadth Expansion: ./given/basic/10.txt
+
+./generated/207542.txt
+./given/basic/13.txt
+Depth Expansion: ./given/basic/20.txt
+
+./generated/685564.txt
+./given/basic/13.txt
+Breadth Expansion: ./given/basic/6.txt
+Breadth Expansion: ./given/basic/13.txt
+Breadth Expansion: ./given/basic/18.txt
+Breadth Expansion: ./given/basic/5.txt
+Breadth Expansion: ./given/basic/1.txt
+
+./generated/88965.txt
+./given/basic/1.txt
+Breadth Expansion: ./given/basic/18.txt
+Breadth Expansion: ./given/basic/1.txt
+
+./generated/873637.txt
+./given/basic/3.txt
+Breadth Expansion: ./given/basic/3.txt
+Breadth Expansion: ./given/basic/7.txt
+Breadth Expansion: ./given/basic/14.txt
+Depth Expansion: ./given/basic/4.txt
+
+./generated/167731.txt
+./given/basic/14.txt
+Depth Expansion: ./given/basic/15.txt
+Breadth Expansion: ./given/basic/2.txt
+Breadth Expansion: ./given/basic/4.txt
+Depth Expansion: ./given/basic/11.txt
+Depth Expansion: ./given/pfabric/17.txt
+
+./generated/752628.txt
+./given/basic/16.txt
+Breadth Expansion: ./given/basic/18.txt
+Breadth Expansion: ./given/basic/18.txt
+Depth Expansion: ./given/basic/12.txt
+Depth Expansion: ./given/pfabric/19.txt
+
+./generated/235890.txt
+./given/basic/9.txt
+Depth Expansion: ./given/basic/5.txt
+Depth Expansion: ./given/pfabric/17.txt
+
+./generated/765787.txt
+./given/basic/8.txt
+Depth Expansion: ./given/basic/10.txt
+Depth Expansion: ./given/basic/10.txt
+Breadth Expansion: ./given/basic/8.txt
+
+./generated/391425.txt
+./given/basic/6.txt
+Depth Expansion: ./given/basic/7.txt
+Depth Expansion: ./given/basic/20.txt
+
+./generated/835073.txt
+./given/basic/1.txt
+Breadth Expansion: ./given/basic/7.txt
+Breadth Expansion: ./given/basic/15.txt
+Breadth Expansion: ./given/basic/16.txt
+
+./generated/952166.txt
+./given/basic/5.txt
+Breadth Expansion: ./given/basic/9.txt
+
+./generated/939307.txt
+./given/basic/1.txt
+Depth Expansion: ./given/basic/3.txt
+Breadth Expansion: ./given/basic/3.txt
+Breadth Expansion: ./given/basic/11.txt
+Breadth Expansion: ./given/basic/13.txt
+
+./generated/704443.txt
+./given/basic/9.txt
+Breadth Expansion: ./given/basic/6.txt
+Breadth Expansion: ./given/basic/20.txt
+Depth Expansion: ./given/basic/11.txt
+Depth Expansion: ./given/basic/11.txt
+
+./generated/373757.txt
+./given/basic/5.txt
+Depth Expansion: ./given/basic/14.txt
+Breadth Expansion: ./given/basic/5.txt
+Depth Expansion: ./given/basic/11.txt
+Depth Expansion: ./given/pfabric/19.txt
+
+./generated/763440.txt
+./given/basic/20.txt
+Depth Expansion: ./given/basic/15.txt
+Breadth Expansion: ./given/basic/3.txt
+
+./generated/205193.txt
+./given/basic/14.txt
+Depth Expansion: ./given/basic/18.txt
+Depth Expansion: ./given/basic/15.txt
+Breadth Expansion: ./given/basic/15.txt
+Breadth Expansion: ./given/basic/6.txt
+Breadth Expansion: ./given/basic/11.txt
+
+./generated/167834.txt
+./given/basic/1.txt
+Breadth Expansion: ./given/basic/5.txt
+Depth Expansion: ./given/pfabric/17.txt
+
+./generated/739593.txt
+./given/basic/8.txt
+Breadth Expansion: ./given/basic/16.txt
+Depth Expansion: ./given/basic/12.txt
+Depth Expansion: ./given/basic/15.txt
+
+./generated/161453.txt
+./given/basic/13.txt
+Breadth Expansion: ./given/basic/20.txt
+Breadth Expansion: ./given/basic/14.txt
+Depth Expansion: ./given/basic/10.txt
+Depth Expansion: ./given/pfabric/19.txt
+
+./generated/977490.txt
+./given/basic/9.txt
+Depth Expansion: ./given/basic/6.txt
+Breadth Expansion: ./given/basic/12.txt
+Breadth Expansion: ./given/basic/10.txt
+Depth Expansion: ./given/basic/7.txt
+Breadth Expansion: ./given/basic/3.txt
+
+./generated/812779.txt
+./given/basic/9.txt
+Depth Expansion: ./given/basic/16.txt
+Depth Expansion: ./given/basic/3.txt
+
+./generated/780720.txt
+./given/basic/10.txt
+Depth Expansion: ./given/basic/6.txt
+Depth Expansion: ./given/basic/12.txt
+Breadth Expansion: ./given/basic/9.txt
+Breadth Expansion: ./given/basic/16.txt
+Breadth Expansion: ./given/basic/7.txt
+
+./generated/354910.txt
+./given/basic/13.txt
+Depth Expansion: ./given/basic/10.txt
+Breadth Expansion: ./given/basic/6.txt
+Depth Expansion: ./given/basic/10.txt
+Breadth Expansion: ./given/basic/12.txt
+Breadth Expansion: ./given/basic/16.txt
+
+./generated/176920.txt
+./given/basic/5.txt
+Depth Expansion: ./given/basic/15.txt
+Depth Expansion: ./given/basic/6.txt
+Breadth Expansion: ./given/basic/8.txt
+
+./generated/844328.txt
+./given/basic/3.txt
+Breadth Expansion: ./given/basic/2.txt
+Breadth Expansion: ./given/basic/4.txt
+Breadth Expansion: ./given/basic/16.txt
+Depth Expansion: ./given/pfabric/17.txt
+
+./generated/30471.txt
+./given/basic/16.txt
+Breadth Expansion: ./given/basic/13.txt
+
+./generated/446959.txt
+./given/basic/16.txt
+Breadth Expansion: ./given/basic/5.txt
+Depth Expansion: ./given/pfabric/17.txt
+
+./generated/74721.txt
+./given/basic/16.txt
+Breadth Expansion: ./given/basic/20.txt
+Depth Expansion: ./given/basic/20.txt
+Depth Expansion: ./given/basic/4.txt
+Breadth Expansion: ./given/basic/2.txt
+
+./generated/659119.txt
+./given/basic/10.txt
+Depth Expansion: ./given/basic/2.txt
+Depth Expansion: ./given/basic/20.txt
+Breadth Expansion: ./given/basic/15.txt
+Depth Expansion: ./given/pfabric/19.txt
+
+./generated/916264.txt
+./given/basic/1.txt
+Breadth Expansion: ./given/basic/7.txt
+Depth Expansion: ./given/basic/12.txt
+
+./generated/243360.txt
+./given/basic/8.txt
+Depth Expansion: ./given/basic/10.txt
+Breadth Expansion: ./given/basic/4.txt
+
+./generated/705746.txt
+./given/basic/14.txt
+Breadth Expansion: ./given/basic/15.txt
+
+./generated/416661.txt
+./given/basic/2.txt
+Breadth Expansion: ./given/pfabric/19.txt
+
+./generated/648070.txt
+./given/basic/12.txt
+Breadth Expansion: ./given/basic/3.txt
+Depth Expansion: ./given/basic/1.txt
+Depth Expansion: ./given/basic/20.txt
+Breadth Expansion: ./given/basic/18.txt
+
+./generated/237530.txt
+./given/basic/5.txt
+Depth Expansion: ./given/basic/7.txt
+Breadth Expansion: ./given/basic/13.txt
+
+./generated/728595.txt
+./given/basic/12.txt
+Breadth Expansion: ./given/basic/9.txt
+Depth Expansion: ./given/basic/8.txt
+Breadth Expansion: ./given/basic/12.txt
+Depth Expansion: ./given/basic/14.txt
+Breadth Expansion: ./given/pfabric/19.txt
+
+./generated/381509.txt
+./given/basic/20.txt
+Breadth Expansion: ./given/basic/11.txt
+Depth Expansion: ./given/basic/1.txt
+Depth Expansion: ./given/basic/10.txt
+
+./generated/344228.txt
+./given/basic/15.txt
+Breadth Expansion: ./given/basic/16.txt
+
+./generated/752152.txt
+./given/basic/7.txt
+Depth Expansion: ./given/basic/14.txt
+Breadth Expansion: ./given/basic/18.txt
+Depth Expansion: ./given/basic/4.txt
+Breadth Expansion: ./given/basic/20.txt
+Breadth Expansion: ./given/pfabric/19.txt
+
+./generated/43948.txt
+./given/basic/5.txt
+Breadth Expansion: ./given/basic/4.txt
+Depth Expansion: ./given/basic/3.txt
+Depth Expansion: ./given/basic/3.txt
+
+./generated/679525.txt
+./given/basic/8.txt
+Breadth Expansion: ./given/basic/13.txt
+
+./generated/817065.txt
+./given/basic/10.txt
+Depth Expansion: ./given/basic/9.txt
+Depth Expansion: ./given/basic/14.txt
+Breadth Expansion: ./given/basic/5.txt
+
+./generated/809919.txt
+./given/basic/4.txt
+Depth Expansion: ./given/basic/20.txt
+Breadth Expansion: ./given/basic/1.txt
+Depth Expansion: ./given/basic/20.txt
+Depth Expansion: ./given/basic/12.txt
+Depth Expansion: ./given/basic/16.txt
+
+./generated/130667.txt
+./given/basic/1.txt
+Breadth Expansion: ./given/basic/14.txt
+Breadth Expansion: ./given/pfabric/19.txt
+
+./generated/386436.txt
+./given/basic/6.txt
+Depth Expansion: ./given/basic/8.txt
+Depth Expansion: ./given/pfabric/19.txt
+
+./generated/94737.txt
+./given/basic/2.txt
+Breadth Expansion: ./given/basic/20.txt
+Depth Expansion: ./given/basic/2.txt
+Breadth Expansion: ./given/basic/9.txt
+
+./generated/32319.txt
+./given/basic/15.txt
+Breadth Expansion: ./given/basic/14.txt
+
+./generated/727661.txt
+./given/basic/14.txt
+Depth Expansion: ./given/basic/8.txt
+Depth Expansion: ./given/basic/3.txt
+
+./generated/804662.txt
+./given/basic/2.txt
+Breadth Expansion: ./given/basic/6.txt
+Depth Expansion: ./given/basic/1.txt
+Depth Expansion: ./given/basic/7.txt
+Breadth Expansion: ./given/basic/8.txt
+Breadth Expansion: ./given/basic/1.txt
+
+./generated/606.txt
+./given/basic/7.txt
+Depth Expansion: ./given/basic/2.txt
+
+./generated/518345.txt
+./given/basic/11.txt
+Breadth Expansion: ./given/basic/1.txt
+
+./generated/309451.txt
+./given/basic/13.txt
+Breadth Expansion: ./given/basic/10.txt
+Depth Expansion: ./given/basic/6.txt
+Depth Expansion: ./given/basic/11.txt
+Depth Expansion: ./given/basic/14.txt
+
+./generated/256961.txt
+./given/basic/5.txt
+Breadth Expansion: ./given/basic/6.txt
+Breadth Expansion: ./given/basic/13.txt
+Breadth Expansion: ./given/basic/13.txt
+Breadth Expansion: ./given/basic/8.txt
+Breadth Expansion: ./given/pfabric/19.txt
+
+./generated/644214.txt
+./given/basic/11.txt
+Breadth Expansion: ./given/basic/20.txt
+Depth Expansion: ./given/basic/12.txt
+Breadth Expansion: ./given/basic/12.txt
+Breadth Expansion: ./given/basic/5.txt
+Depth Expansion: ./given/basic/4.txt
+
+./generated/291805.txt
+./given/basic/15.txt
+Breadth Expansion: ./given/basic/18.txt
+Depth Expansion: ./given/basic/9.txt
+Depth Expansion: ./given/basic/3.txt
+Depth Expansion: ./given/basic/16.txt
+Breadth Expansion: ./given/pfabric/19.txt
+
+./generated/338020.txt
+./given/basic/10.txt
+Breadth Expansion: ./given/basic/2.txt
+Depth Expansion: ./given/basic/7.txt
+Depth Expansion: ./given/basic/16.txt
+Breadth Expansion: ./given/basic/8.txt
+
+./generated/688489.txt
+./given/basic/15.txt
+Breadth Expansion: ./given/basic/15.txt
+
+./generated/142502.txt
+./given/basic/13.txt
+Depth Expansion: ./given/basic/10.txt
+Depth Expansion: ./given/basic/14.txt
+
+./generated/290991.txt
+./given/basic/12.txt
+Breadth Expansion: ./given/basic/4.txt
+Breadth Expansion: ./given/basic/10.txt
+Depth Expansion: ./given/basic/4.txt
+Depth Expansion: ./given/basic/9.txt
+Depth Expansion: ./given/basic/11.txt
+
+./generated/25915.txt
+./given/basic/20.txt
+Depth Expansion: ./given/basic/4.txt
+
+./generated/356653.txt
+./given/basic/1.txt
+Depth Expansion: ./given/basic/16.txt
+Depth Expansion: ./given/basic/13.txt
+
+./generated/980299.txt
+./given/basic/2.txt
+Depth Expansion: ./given/pfabric/19.txt
+
+./generated/28518.txt
+./given/basic/16.txt
+Breadth Expansion: ./given/basic/11.txt
+Breadth Expansion: ./given/basic/16.txt
+Depth Expansion: ./given/basic/2.txt
+Depth Expansion: ./given/basic/8.txt
+Breadth Expansion: ./given/basic/2.txt
+
+./generated/188259.txt
+./given/basic/18.txt
+Depth Expansion: ./given/basic/4.txt
+Breadth Expansion: ./given/basic/14.txt
+Depth Expansion: ./given/basic/7.txt
+Depth Expansion: ./given/basic/5.txt
+Depth Expansion: ./given/basic/13.txt
+
+./generated/334679.txt
+./given/basic/20.txt
+Breadth Expansion: ./given/basic/7.txt
+Breadth Expansion: ./given/basic/10.txt
+
+./generated/721185.txt
+./given/basic/6.txt
+Breadth Expansion: ./given/basic/5.txt
+Depth Expansion: ./given/basic/6.txt
+Depth Expansion: ./given/basic/4.txt
+Depth Expansion: ./given/basic/4.txt
+
+./generated/455.txt
+./given/basic/10.txt
+Depth Expansion: ./given/basic/7.txt
+Breadth Expansion: ./given/basic/12.txt
+Breadth Expansion: ./given/pfabric/17.txt
+
+./generated/808871.txt
+./given/basic/6.txt
+Breadth Expansion: ./given/basic/7.txt
+
+./generated/279683.txt
+./given/basic/3.txt
+Breadth Expansion: ./given/basic/1.txt
+Breadth Expansion: ./given/basic/4.txt
+Breadth Expansion: ./given/basic/5.txt
+Depth Expansion: ./given/basic/1.txt
+Breadth Expansion: ./given/basic/1.txt
+
+./generated/688170.txt
+./given/basic/10.txt
+Depth Expansion: ./given/basic/7.txt
+Depth Expansion: ./given/basic/1.txt
+Depth Expansion: ./given/basic/20.txt
+Depth Expansion: ./given/basic/2.txt
+Depth Expansion: ./given/pfabric/17.txt
+
+./generated/566995.txt
+./given/basic/5.txt
+Breadth Expansion: ./given/basic/7.txt
+Breadth Expansion: ./given/basic/18.txt
+Depth Expansion: ./given/pfabric/19.txt
+
+./generated/336876.txt
+./given/basic/5.txt
+Depth Expansion: ./given/basic/5.txt
+Breadth Expansion: ./given/basic/14.txt
+
+./generated/979047.txt
+./given/basic/15.txt
+Breadth Expansion: ./given/basic/1.txt
+Breadth Expansion: ./given/basic/12.txt
+
+./generated/889015.txt
+./given/basic/5.txt
+Depth Expansion: ./given/basic/11.txt
+Depth Expansion: ./given/basic/20.txt
+Breadth Expansion: ./given/basic/3.txt
+Depth Expansion: ./given/basic/16.txt
+Breadth Expansion: ./given/basic/1.txt
+
+./generated/583576.txt
+./given/basic/10.txt
+Breadth Expansion: ./given/basic/6.txt
+Depth Expansion: ./given/pfabric/19.txt
+
+./generated/955096.txt
+./given/basic/12.txt
+Breadth Expansion: ./given/basic/9.txt
+Depth Expansion: ./given/basic/2.txt
+Depth Expansion: ./given/basic/8.txt
+Depth Expansion: ./given/basic/13.txt
+Depth Expansion: ./given/basic/11.txt
+
+./generated/758356.txt
+./given/basic/7.txt
+Depth Expansion: ./given/basic/15.txt
+Breadth Expansion: ./given/basic/13.txt
+Depth Expansion: ./given/basic/16.txt
+Depth Expansion: ./given/basic/16.txt
+Depth Expansion: ./given/basic/16.txt
+
+./generated/948721.txt
+./given/basic/4.txt
+Breadth Expansion: ./given/basic/13.txt
+Depth Expansion: ./given/basic/15.txt
+
+./generated/270949.txt
+./given/basic/2.txt
+Depth Expansion: ./given/basic/8.txt
+Breadth Expansion: ./given/basic/9.txt
+
+./generated/669827.txt
+./given/basic/12.txt
+Depth Expansion: ./given/basic/4.txt
+Breadth Expansion: ./given/basic/12.txt
+
+./generated/85407.txt
+./given/basic/16.txt
+Depth Expansion: ./given/pfabric/19.txt
+
+./generated/635002.txt
+./given/basic/18.txt
+Depth Expansion: ./given/pfabric/17.txt
+
+./generated/677038.txt
+./given/basic/4.txt
+Depth Expansion: ./given/basic/10.txt
+Depth Expansion: ./given/basic/10.txt
+Breadth Expansion: ./given/pfabric/19.txt
+
+./generated/724692.txt
+./given/basic/1.txt
+Breadth Expansion: ./given/basic/7.txt
+
+./generated/617770.txt
+./given/basic/18.txt
+Breadth Expansion: ./given/basic/15.txt
+Depth Expansion: ./given/basic/5.txt
+Depth Expansion: ./given/basic/9.txt
+Breadth Expansion: ./given/basic/7.txt
+Depth Expansion: ./given/basic/11.txt
+
+./generated/414784.txt
+./given/basic/1.txt
+Depth Expansion: ./given/basic/7.txt
+Breadth Expansion: ./given/basic/3.txt
+
+./generated/157600.txt
+./given/basic/16.txt
+Depth Expansion: ./given/basic/1.txt
+Breadth Expansion: ./given/pfabric/19.txt
+
+./generated/779967.txt
+./given/basic/3.txt
+Depth Expansion: ./given/pfabric/19.txt
+
+./generated/689959.txt
+./given/basic/9.txt
+Breadth Expansion: ./given/basic/1.txt
+Breadth Expansion: ./given/basic/11.txt
+
+./generated/308650.txt
+./given/basic/8.txt
+Breadth Expansion: ./given/basic/16.txt
+Depth Expansion: ./given/basic/3.txt
+Breadth Expansion: ./given/basic/15.txt
+Depth Expansion: ./given/basic/13.txt
+Breadth Expansion: ./given/basic/1.txt
+
+./generated/13583.txt
+./given/basic/16.txt
+Depth Expansion: ./given/basic/8.txt
+Depth Expansion: ./given/basic/3.txt
+Breadth Expansion: ./given/basic/15.txt
+Breadth Expansion: ./given/basic/12.txt
+Depth Expansion: ./given/pfabric/19.txt
+
+./generated/985883.txt
+./given/basic/1.txt
+Breadth Expansion: ./given/basic/8.txt
+Depth Expansion: ./given/basic/8.txt
+
+./generated/737006.txt
+./given/basic/10.txt
+Breadth Expansion: ./given/basic/5.txt
+Breadth Expansion: ./given/basic/20.txt
+Depth Expansion: ./given/basic/1.txt
+Depth Expansion: ./given/basic/6.txt
+
+./generated/992982.txt
+./given/basic/16.txt
+Breadth Expansion: ./given/basic/11.txt
+Breadth Expansion: ./given/pfabric/17.txt
+
+./generated/555837.txt
+./given/basic/11.txt
+Depth Expansion: ./given/pfabric/19.txt
+
+./generated/717154.txt
+./given/basic/6.txt
+Breadth Expansion: ./given/pfabric/19.txt
+
+./generated/562049.txt
+./given/basic/11.txt
+Depth Expansion: ./given/basic/20.txt
+Depth Expansion: ./given/basic/12.txt
+Depth Expansion: ./given/basic/4.txt
+Depth Expansion: ./given/basic/5.txt
+Depth Expansion: ./given/pfabric/17.txt
+
+./generated/127552.txt
+./given/basic/3.txt
+Breadth Expansion: ./given/basic/20.txt
+Depth Expansion: ./given/basic/1.txt
+Breadth Expansion: ./given/basic/5.txt
+
+./generated/866570.txt
+./given/basic/6.txt
+Depth Expansion: ./given/basic/4.txt
+Breadth Expansion: ./given/basic/6.txt
+Depth Expansion: ./given/pfabric/19.txt
+
+./generated/549822.txt
+./given/basic/1.txt
+Breadth Expansion: ./given/basic/4.txt
+Depth Expansion: ./given/basic/12.txt
+Breadth Expansion: ./given/basic/8.txt
+Breadth Expansion: ./given/basic/9.txt
+Breadth Expansion: ./given/basic/12.txt
+
+./generated/838575.txt
+./given/basic/2.txt
+Breadth Expansion: ./given/basic/6.txt
+Depth Expansion: ./given/basic/5.txt
+Breadth Expansion: ./given/basic/11.txt
+Depth Expansion: ./given/basic/3.txt
+Breadth Expansion: ./given/basic/14.txt
+
+./generated/417646.txt
+./given/basic/1.txt
+Breadth Expansion: ./given/basic/2.txt
+Depth Expansion: ./given/pfabric/19.txt
+
+./generated/696874.txt
+./given/basic/11.txt
+Breadth Expansion: ./given/basic/6.txt
+Depth Expansion: ./given/basic/3.txt
+Depth Expansion: ./given/basic/7.txt
+Depth Expansion: ./given/pfabric/19.txt
+
+./generated/345278.txt
+./given/basic/5.txt
+Depth Expansion: ./given/basic/11.txt
+Depth Expansion: ./given/basic/13.txt
+Breadth Expansion: ./given/basic/16.txt
+Depth Expansion: ./given/basic/14.txt
+Depth Expansion: ./given/pfabric/17.txt
+
+./generated/668442.txt
+./given/basic/11.txt
+Depth Expansion: ./given/basic/8.txt
+Breadth Expansion: ./given/basic/9.txt
+Breadth Expansion: ./given/basic/3.txt
+Breadth Expansion: ./given/pfabric/17.txt
+
+./generated/441048.txt
+./given/basic/7.txt
+Breadth Expansion: ./given/basic/14.txt
+Breadth Expansion: ./given/basic/3.txt
+
+./generated/956395.txt
+./given/basic/15.txt
+Breadth Expansion: ./given/basic/1.txt
+
+./generated/231313.txt
+./given/basic/13.txt
+Depth Expansion: ./given/pfabric/17.txt
+
+./generated/263296.txt
+./given/basic/14.txt
+Breadth Expansion: ./given/basic/14.txt
+
+./generated/573454.txt
+./given/basic/7.txt
+Breadth Expansion: ./given/pfabric/17.txt
+
+./generated/405321.txt
+./given/basic/2.txt
+Depth Expansion: ./given/basic/4.txt
+Depth Expansion: ./given/basic/2.txt
+Depth Expansion: ./given/basic/12.txt
+Breadth Expansion: ./given/basic/7.txt
+Breadth Expansion: ./given/basic/12.txt
+
+./generated/218627.txt
+./given/basic/7.txt
+Depth Expansion: ./given/basic/6.txt
+Breadth Expansion: ./given/basic/13.txt
+Depth Expansion: ./given/basic/12.txt
+
+./generated/25402.txt
+./given/basic/11.txt
+Breadth Expansion: ./given/basic/12.txt
+Breadth Expansion: ./given/basic/20.txt
+Breadth Expansion: ./given/basic/3.txt
+
+./generated/713929.txt
+./given/basic/6.txt
+Depth Expansion: ./given/basic/1.txt
+Depth Expansion: ./given/basic/16.txt
+Breadth Expansion: ./given/basic/1.txt
+
+./generated/371334.txt
+./given/basic/9.txt
+Depth Expansion: ./given/basic/14.txt
+Breadth Expansion: ./given/basic/20.txt
+Breadth Expansion: ./given/basic/8.txt
+Depth Expansion: ./given/basic/18.txt
+Depth Expansion: ./given/pfabric/19.txt
+
+./generated/810859.txt
+./given/basic/5.txt
+Depth Expansion: ./given/basic/1.txt
+Depth Expansion: ./given/basic/5.txt
+Breadth Expansion: ./given/basic/8.txt
+Breadth Expansion: ./given/basic/10.txt
+
+./generated/547347.txt
+./given/basic/7.txt
+Depth Expansion: ./given/basic/14.txt
+Depth Expansion: ./given/basic/6.txt
+
+./generated/26755.txt
+./given/basic/10.txt
+Breadth Expansion: ./given/basic/20.txt
+Depth Expansion: ./given/basic/16.txt
+Depth Expansion: ./given/basic/15.txt
+
+./generated/17697.txt
+./given/basic/1.txt
+Breadth Expansion: ./given/basic/4.txt
+Depth Expansion: ./given/basic/3.txt
+Depth Expansion: ./given/basic/9.txt
+Breadth Expansion: ./given/basic/13.txt
+
+./generated/905847.txt
+./given/basic/7.txt
+Breadth Expansion: ./given/basic/7.txt
+Depth Expansion: ./given/basic/3.txt
+Depth Expansion: ./given/basic/13.txt
+Breadth Expansion: ./given/basic/14.txt
+
+./generated/838146.txt
+./given/basic/7.txt
+Depth Expansion: ./given/basic/15.txt
+Depth Expansion: ./given/basic/14.txt
+Depth Expansion: ./given/basic/1.txt
+Breadth Expansion: ./given/basic/18.txt
+
+./generated/958207.txt
+./given/basic/10.txt
+Breadth Expansion: ./given/basic/16.txt
+Depth Expansion: ./given/basic/3.txt
+Breadth Expansion: ./given/pfabric/19.txt
+
+./generated/855476.txt
+./given/basic/10.txt
+Breadth Expansion: ./given/basic/3.txt
+Depth Expansion: ./given/basic/10.txt
+Depth Expansion: ./given/basic/20.txt
+Breadth Expansion: ./given/basic/20.txt
+Depth Expansion: ./given/pfabric/17.txt
+
+./generated/726009.txt
+./given/basic/12.txt
+Breadth Expansion: ./given/basic/16.txt
+Breadth Expansion: ./given/basic/4.txt
+Breadth Expansion: ./given/basic/18.txt
+Depth Expansion: ./given/basic/11.txt
+Depth Expansion: ./given/basic/9.txt
+
+./generated/116178.txt
+./given/basic/6.txt
+Depth Expansion: ./given/basic/7.txt
+Breadth Expansion: ./given/pfabric/17.txt
+
+./generated/137805.txt
+./given/basic/7.txt
+Depth Expansion: ./given/basic/9.txt
+Depth Expansion: ./given/basic/7.txt
+Depth Expansion: ./given/basic/13.txt
+Breadth Expansion: ./given/basic/11.txt
+
+./generated/209379.txt
+./given/basic/5.txt
+Depth Expansion: ./given/basic/4.txt
+Depth Expansion: ./given/basic/4.txt
+Depth Expansion: ./given/basic/2.txt
+Breadth Expansion: ./given/basic/3.txt
+
+./generated/237003.txt
+./given/basic/18.txt
+Depth Expansion: ./given/basic/1.txt
+Depth Expansion: ./given/basic/4.txt
+Depth Expansion: ./given/basic/15.txt
+
+./generated/165908.txt
+./given/basic/15.txt
+Breadth Expansion: ./given/basic/20.txt
+
+./generated/580436.txt
+./given/basic/15.txt
+Breadth Expansion: ./given/pfabric/19.txt
+
+./generated/512283.txt
+./given/basic/1.txt
+Breadth Expansion: ./given/basic/11.txt
+
+./generated/624782.txt
+./given/basic/13.txt
+Depth Expansion: ./given/basic/7.txt
+Depth Expansion: ./given/basic/16.txt
+Depth Expansion: ./given/basic/12.txt
+
+./generated/110193.txt
+./given/basic/9.txt
+Breadth Expansion: ./given/basic/20.txt
+Breadth Expansion: ./given/basic/8.txt
+Depth Expansion: ./given/basic/8.txt
+Depth Expansion: ./given/basic/4.txt
+Depth Expansion: ./given/basic/8.txt
+
+./generated/430815.txt
+./given/basic/4.txt
+Breadth Expansion: ./given/basic/2.txt
+Breadth Expansion: ./given/basic/12.txt
+Breadth Expansion: ./given/basic/11.txt
+
+./generated/840927.txt
+./given/basic/7.txt
+Depth Expansion: ./given/basic/16.txt
+Depth Expansion: ./given/basic/12.txt
+
+./generated/429157.txt
+./given/basic/5.txt
+Breadth Expansion: ./given/basic/2.txt
+Depth Expansion: ./given/basic/2.txt
+Breadth Expansion: ./given/basic/3.txt
+Depth Expansion: ./given/basic/13.txt
+Breadth Expansion: ./given/pfabric/19.txt
+
+./generated/148721.txt
+./given/basic/14.txt
+Depth Expansion: ./given/basic/15.txt
+Depth Expansion: ./given/basic/20.txt
+Depth Expansion: ./given/basic/13.txt
+Depth Expansion: ./given/basic/13.txt
+Breadth Expansion: ./given/basic/1.txt
+
+./generated/538997.txt
+./given/basic/5.txt
+Depth Expansion: ./given/basic/16.txt
+
+./generated/321390.txt
+./given/basic/18.txt
+Depth Expansion: ./given/basic/16.txt
+Depth Expansion: ./given/pfabric/19.txt
+
+./generated/11533.txt
+./given/basic/13.txt
+Breadth Expansion: ./given/basic/2.txt
+Breadth Expansion: ./given/basic/1.txt
+
+./generated/644887.txt
+./given/basic/4.txt
+Depth Expansion: ./given/basic/3.txt
+Breadth Expansion: ./given/basic/18.txt
+Breadth Expansion: ./given/basic/1.txt
+Breadth Expansion: ./given/basic/5.txt
+Depth Expansion: ./given/basic/2.txt
+
+./generated/618331.txt
+./given/basic/1.txt
+Depth Expansion: ./given/basic/9.txt
+Depth Expansion: ./given/basic/1.txt
+Breadth Expansion: ./given/basic/6.txt
+Depth Expansion: ./given/basic/18.txt
+Depth Expansion: ./given/basic/7.txt
+
+./generated/523312.txt
+./given/basic/7.txt
+Depth Expansion: ./given/basic/15.txt
+
+./generated/686435.txt
+./given/basic/12.txt
+Depth Expansion: ./given/basic/4.txt
+Depth Expansion: ./given/basic/1.txt
+Depth Expansion: ./given/pfabric/19.txt
+
+./generated/963155.txt
+./given/basic/6.txt
+Breadth Expansion: ./given/basic/10.txt
+Breadth Expansion: ./given/basic/14.txt
+Depth Expansion: ./given/basic/6.txt
+Breadth Expansion: ./given/pfabric/19.txt
+
+./generated/50162.txt
+./given/basic/8.txt
+Depth Expansion: ./given/basic/20.txt
+
+./generated/304619.txt
+./given/basic/9.txt
+Breadth Expansion: ./given/basic/6.txt
+Depth Expansion: ./given/basic/8.txt
+Depth Expansion: ./given/basic/5.txt
+Breadth Expansion: ./given/pfabric/17.txt
+
+./generated/502090.txt
+./given/basic/1.txt
+Breadth Expansion: ./given/basic/6.txt
+Depth Expansion: ./given/basic/12.txt
+Breadth Expansion: ./given/basic/4.txt
+Depth Expansion: ./given/basic/15.txt
+Breadth Expansion: ./given/pfabric/19.txt
+
+./generated/521247.txt
+./given/basic/15.txt
+Depth Expansion: ./given/basic/3.txt
+Breadth Expansion: ./given/basic/5.txt
+
+./generated/353495.txt
+./given/basic/2.txt
+Breadth Expansion: ./given/basic/1.txt
+Breadth Expansion: ./given/basic/15.txt
+Breadth Expansion: ./given/basic/1.txt
+Depth Expansion: ./given/basic/11.txt
+
+./generated/838139.txt
+./given/basic/13.txt
+Depth Expansion: ./given/basic/18.txt
+Breadth Expansion: ./given/basic/6.txt
+Depth Expansion: ./given/basic/4.txt
+Depth Expansion: ./given/basic/16.txt
+Breadth Expansion: ./given/pfabric/17.txt
+
+./generated/823927.txt
+./given/basic/6.txt
+Depth Expansion: ./given/basic/12.txt
+Depth Expansion: ./given/basic/5.txt
+Breadth Expansion: ./given/basic/6.txt
+Breadth Expansion: ./given/basic/5.txt
+Depth Expansion: ./given/basic/9.txt
+
+./generated/690136.txt
+./given/basic/13.txt
+Breadth Expansion: ./given/basic/20.txt
+Breadth Expansion: ./given/basic/13.txt
+Depth Expansion: ./given/pfabric/19.txt
+
+./generated/456440.txt
+./given/basic/4.txt
+Depth Expansion: ./given/basic/20.txt
+Depth Expansion: ./given/basic/20.txt
+Breadth Expansion: ./given/basic/15.txt
+Depth Expansion: ./given/pfabric/17.txt
+
+./generated/960661.txt
+./given/basic/9.txt
+Depth Expansion: ./given/pfabric/17.txt
+
+./generated/309921.txt
+./given/basic/18.txt
+Breadth Expansion: ./given/basic/13.txt
+Depth Expansion: ./given/pfabric/17.txt
+
+./generated/280795.txt
+./given/basic/8.txt
+Breadth Expansion: ./given/basic/1.txt
+
+./generated/63428.txt
+./given/basic/4.txt
+Breadth Expansion: ./given/pfabric/19.txt
+
+./generated/33355.txt
+./given/basic/10.txt
+Breadth Expansion: ./given/basic/1.txt
+Breadth Expansion: ./given/basic/3.txt
+Breadth Expansion: ./given/basic/12.txt
+Breadth Expansion: ./given/basic/3.txt
+
+./generated/810681.txt
+./given/basic/20.txt
+Depth Expansion: ./given/basic/18.txt
+Breadth Expansion: ./given/basic/3.txt
+Depth Expansion: ./given/basic/13.txt
+
+./generated/390715.txt
+./given/basic/10.txt
+Breadth Expansion: ./given/basic/3.txt
+Depth Expansion: ./given/basic/8.txt
+Breadth Expansion: ./given/basic/16.txt
+
+./generated/898176.txt
+./given/basic/18.txt
+Depth Expansion: ./given/basic/5.txt
+Breadth Expansion: ./given/basic/12.txt
+Depth Expansion: ./given/basic/11.txt
+
+./generated/966002.txt
+./given/basic/15.txt
+Depth Expansion: ./given/basic/9.txt
+Breadth Expansion: ./given/basic/14.txt
+Depth Expansion: ./given/basic/14.txt
+
+./generated/113151.txt
+./given/basic/7.txt
+Depth Expansion: ./given/basic/16.txt
+Depth Expansion: ./given/basic/4.txt
+Depth Expansion: ./given/basic/8.txt
+
+./generated/743325.txt
+./given/basic/18.txt
+Depth Expansion: ./given/basic/3.txt
+Depth Expansion: ./given/basic/14.txt
+
+./generated/950616.txt
+./given/basic/3.txt
+Breadth Expansion: ./given/basic/9.txt
+Breadth Expansion: ./given/basic/10.txt
+
+./generated/319658.txt
+./given/basic/6.txt
+Breadth Expansion: ./given/basic/10.txt
+Depth Expansion: ./given/basic/13.txt
+Depth Expansion: ./given/basic/3.txt
+Breadth Expansion: ./given/basic/3.txt
+Breadth Expansion: ./given/pfabric/19.txt
+
+./generated/14797.txt
+./given/basic/20.txt
+Breadth Expansion: ./given/basic/10.txt
+
+./generated/896999.txt
+./given/basic/15.txt
+Depth Expansion: ./given/pfabric/17.txt
+
+./generated/134096.txt
+./given/basic/7.txt
+Depth Expansion: ./given/basic/1.txt
+Depth Expansion: ./given/basic/10.txt
+Depth Expansion: ./given/basic/8.txt
+Breadth Expansion: ./given/basic/16.txt
+Breadth Expansion: ./given/basic/9.txt
+
+./generated/725409.txt
+./given/basic/8.txt
+Breadth Expansion: ./given/basic/20.txt
+Breadth Expansion: ./given/basic/14.txt
+
+./generated/701855.txt
+./given/basic/20.txt
+Breadth Expansion: ./given/basic/10.txt
+Depth Expansion: ./given/basic/6.txt
+Breadth Expansion: ./given/basic/13.txt
+
+./generated/616472.txt
+./given/basic/13.txt
+Breadth Expansion: ./given/basic/7.txt
+Depth Expansion: ./given/basic/18.txt
+Depth Expansion: ./given/basic/18.txt
+Breadth Expansion: ./given/basic/9.txt
+
+./generated/539670.txt
+./given/basic/3.txt
+Breadth Expansion: ./given/basic/8.txt
+Depth Expansion: ./given/basic/1.txt
+Depth Expansion: ./given/basic/3.txt
+Breadth Expansion: ./given/pfabric/17.txt
+
+./generated/124894.txt
+./given/basic/15.txt
+Depth Expansion: ./given/basic/12.txt
+Breadth Expansion: ./given/basic/8.txt
+Breadth Expansion: ./given/basic/8.txt
+
+./generated/831488.txt
+./given/basic/1.txt
+Depth Expansion: ./given/basic/6.txt
+Breadth Expansion: ./given/basic/5.txt
+Breadth Expansion: ./given/basic/7.txt
+
+./generated/632463.txt
+./given/basic/15.txt
+Depth Expansion: ./given/basic/1.txt
+Breadth Expansion: ./given/basic/16.txt
+Depth Expansion: ./given/basic/2.txt
+Breadth Expansion: ./given/basic/12.txt
+Breadth Expansion: ./given/basic/5.txt
+
+./generated/744444.txt
+./given/basic/20.txt
+Breadth Expansion: ./given/basic/10.txt
+Depth Expansion: ./given/basic/11.txt
+Depth Expansion: ./given/basic/12.txt
+Breadth Expansion: ./given/basic/13.txt
+Breadth Expansion: ./given/basic/9.txt
+
+./generated/58581.txt
+./given/basic/6.txt
+Depth Expansion: ./given/basic/14.txt
+Depth Expansion: ./given/basic/2.txt
+Depth Expansion: ./given/basic/18.txt
+Depth Expansion: ./given/basic/5.txt
+
+./generated/132647.txt
+./given/basic/11.txt
+Depth Expansion: ./given/basic/20.txt
+Depth Expansion: ./given/basic/2.txt
+Breadth Expansion: ./given/pfabric/17.txt
+
+./generated/953536.txt
+./given/basic/12.txt
+Breadth Expansion: ./given/basic/10.txt
+Breadth Expansion: ./given/basic/18.txt
+
+./generated/377507.txt
+./given/basic/10.txt
+Depth Expansion: ./given/basic/15.txt
+Depth Expansion: ./given/basic/20.txt
+Depth Expansion: ./given/basic/15.txt
+Breadth Expansion: ./given/pfabric/17.txt
+
+./generated/35095.txt
+./given/basic/12.txt
+Breadth Expansion: ./given/basic/14.txt
+Depth Expansion: ./given/basic/20.txt
+
+./generated/348574.txt
+./given/basic/16.txt
+Depth Expansion: ./given/basic/6.txt
+Breadth Expansion: ./given/basic/3.txt
+Depth Expansion: ./given/basic/3.txt
+Breadth Expansion: ./given/basic/3.txt
+
+./generated/624521.txt
+./given/basic/11.txt
+Depth Expansion: ./given/basic/15.txt
+Depth Expansion: ./given/basic/4.txt
+
+./generated/76890.txt
+./given/basic/10.txt
+Breadth Expansion: ./given/basic/7.txt
+
+./generated/322838.txt
+./given/basic/11.txt
+Depth Expansion: ./given/basic/2.txt
+Breadth Expansion: ./given/basic/11.txt
+Breadth Expansion: ./given/pfabric/17.txt
+
+./generated/408738.txt
+./given/basic/20.txt
+Depth Expansion: ./given/pfabric/17.txt
+
